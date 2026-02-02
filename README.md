@@ -18,4 +18,4 @@ The dataset contains multiple records with various columns capturing detailed in
 ## Recommendations
 - I want to recommend that a visual should be prepared from this sql query for ease of visibility.
 
-[Sql file]
+[Sql file](Matthew_0kunola_sql.sql)
